@@ -1,0 +1,7 @@
+.tab-nav {
+  border: 1px solid transparent !important;
+}
+
+.tab-nav:hover {
+  border-top-color: #000 !important;
+}
