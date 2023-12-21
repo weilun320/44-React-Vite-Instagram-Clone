@@ -16,13 +16,13 @@ export const PROFILE_DATA = {
     `,
   link: "linktr.ee/joinsigma",
   lists: [
-    { image: "./src/assets/sigma-list-meetups.jpg", description: "Meet-ups" },
-    { image: "./src/assets/sigma-list-reviews.jpg", description: "Reviews" },
-    { image: "./src/assets/sigma-list-shoutouts.jpg", description: "Shoutouts" },
-    { image: "./src/assets/sigma-list-hiring.jpg", description: "Hiring" },
-    { image: "./src/assets/sigma-list-events.jpg", description: "Events" },
-    { image: "./src/assets/sigma-list-faqs.jpg", description: "FAQs" },
-    { image: "./src/assets/sigma-list-mentors.jpg", description: "Mentors" },
+    { image: "./assets/sigma-list-meetups.jpg", description: "Meet-ups" },
+    { image: "./assets/sigma-list-reviews.jpg", description: "Reviews" },
+    { image: "./assets/sigma-list-shoutouts.jpg", description: "Shoutouts" },
+    { image: "./assets/sigma-list-hiring.jpg", description: "Hiring" },
+    { image: "./assets/sigma-list-events.jpg", description: "Events" },
+    { image: "./assets/sigma-list-faqs.jpg", description: "FAQs" },
+    { image: "./assets/sigma-list-mentors.jpg", description: "Mentors" },
   ],
   posts: [
     {

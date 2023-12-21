@@ -13,7 +13,7 @@ export default function IconButton({ isTop, isBottom, isProfile, className, onCl
   return (
     <Button variant={margin} style={{ marginBottom: "7px" }} onClick={onClick}>
       {isProfile ?
-        <Image roundedCircle src="./src/assets/profile.jpg" height="26px" />
+        <Image roundedCircle src="./assets/profile.jpg" height="26px" />
         :
         <i className={className} style={{ fontSize: "24px" }}></i>
       }
