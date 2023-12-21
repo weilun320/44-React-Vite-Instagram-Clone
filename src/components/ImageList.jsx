@@ -15,6 +15,6 @@ export default function ImageList() {
   ));
 
   return (
-    <Row className="flex-nowrap mb-5">{renderList}</Row>
+    <Row className="mb-5">{renderList}</Row>
   );
 }
