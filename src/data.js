@@ -1,6 +1,6 @@
 export const PROFILE_DATA = {
   user: "John Doe",
-  userImage: "./src/assets/profile.jpg",
+  userImage: "./assets/profile.jpg",
   image: `https://sig1.co/logo-1`,
   name: "joinsigma",
   posts_no: 465,
