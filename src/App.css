@@ -1,7 +1,20 @@
 .tab-nav {
   border: 1px solid transparent !important;
+  color: rgba(0, 0, 0, .5) !important;
 }
 
-.tab-nav:hover {
+.tab-nav.active {
   border-top-color: #000 !important;
+  color: #000 !important;
+}
+
+.image-overlay {
+  display: none;
+}
+
+.image-overlay-container:hover .image-overlay {
+  align-items: center;
+  background-color: rgba(0, 0, 0, .3);
+  display: flex !important;
+  justify-content: center;
 }
